@@ -7,16 +7,16 @@ While I've had experience with many areas, ranging from web development and clou
  - Game development
 
 Most of my experience revolved around these languages:
-    - Rust
-    - C
-    - C#
-    - Python
-    - JavaScript
+- Rust
+- C
+- C#
+- Python
+- JavaScript
 
 
 I also have experience with:
-    - C++
-    - Java
-    - Lua
-    - Assembly code
+- C++
+- Java
+- Lua
+- Assembly code
 
