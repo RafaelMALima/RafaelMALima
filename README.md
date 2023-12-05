@@ -6,7 +6,7 @@ While I've had experience with many areas, ranging from web development and clou
  - Embedded Development
  - Game development
 
-Most of my experience revolved around these languages:
+Most of my experience in programming revolved around these languages:
 - Rust
 - C
 - C#
@@ -20,3 +20,4 @@ I also have experience with:
 - Lua
 - Assembly code
 
+My experiece in HDLs has mostly revolved around VHDL, although I am also familiar with System Verilog.
