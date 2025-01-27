@@ -1,5 +1,5 @@
 # RafaelMALima
-My name is Rafael Lima, I'm a 8th semester Computer Engineering student at Insper Instituto de Ensino e Pesquisa, an ABET certified college. 
+My name is Rafael Lima, I'm a 9th semester Computer Engineering student at Insper Instituto de Ensino e Pesquisa, an ABET certified college. 
 
 While I've had experience with many areas, ranging from web development and cloud management to hardware development and high performance programming, my main interests are in
  - Hardware Development
